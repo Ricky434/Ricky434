@@ -4,7 +4,6 @@
 - 💞️ These are hearts
 - 📫 This is a mail box
 
-(Github asked me to create a readme and I thought the default emojis were cute...)
 
 <!---
 Ricky434/Ricky434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
